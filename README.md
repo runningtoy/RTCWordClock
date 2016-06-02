@@ -14,7 +14,7 @@ Is the definition File for the LEDs, change here for your LEDs
 
 ## Needed Libraries
 
-- [Logging](https://github.com/mrRobot62/Arduino-logging-library)
+- [Logging](https://github.com/SciLor/Arduino-logging-library)
 - [NeoPixelBus](https://github.com/Makuna/NeoPixelBus)
 - [RTC](https://github.com/Makuna/Rtc)
 
